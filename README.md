@@ -1,4 +1,0 @@
-kangaroo
-========
-
-hop hoppity hop
